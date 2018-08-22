@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://iunetsci.github.io/HoaxyBots/iuni-logo.png",
+    "link": "https://github.com/IUNetSci/HoaxyBots",
+    "text": "IUNI HoaxyBots Repo"
+  },
+  "text": {
+    "more": "Analysis of RT cascade of <a href='https://www.infowars.com/spirit-cooking-clinton-campaign-chairman-invited-to-bizarre-satanic-performance/' target='_blank'>this claim</a>. Only the largest connected component of the network is shown. Nodes and links represent Twitter accounts and retweets of the claim, respectively. Node size indicates account influence, measured by the number of times an account is retweeted. Node color represents bot score, from blue (likely human) to red (likely bot); yellow nodes cannot be evaluated because they have either been suspended or deleted all their tweets.",
+    "intro": "The spread of a fake news on Twitter: The Hoaxy team at Indiana University analyzes the RT cascade of <a href='https://www.infowars.com/spirit-cooking-clinton-campaign-chairman-invited-to-bizarre-satanic-performance/' target='_blank'>this claim</a>.",
+    "title": "OSoMe <a href='http://hoaxy.iuni.iu.edu/'>Hoaxy</a>-<a href='https://botometer.iuni.iu.edu/'>Botometer</a> mashup"
+  },
+  "legend": {
+    "edgeLabel": "Retweet count",
+    "colorLabel": "<a href='https://botometer.iuni.iu.edu/'>Botometer</a> Score",
+    "nodeLabel": "Twitter Accounts"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
