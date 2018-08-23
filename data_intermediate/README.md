@@ -1,1 +1,33 @@
-Please download the intermediate data into this directory.
+The raw data is hosted in external service due to limit of GitHub. Please download the following raw data into this directory for the code to run:
+
+- `M1a_ntweets_per_article.ff.csv`
+- `M1a_ntweets_per_article.lc.csv`
+- `M2a_types_of_tweets.lc.csv`
+- `M2b_types_of_tweets.ff.csv`
+- `M2c_article_gini_coef.csv`
+- `M2d_rand1000_users.lc.csv`
+- `M2d_top1000_users.lc.csv`
+- `M3a_first_day_tweets_for_top1000_articles.lc.csv`
+- `M3a_sampled_users.60000.csv`
+- `M3a_sampled_users_with_score.csv`
+- `M3b_sampled_mentions.60000.csv`
+- `M4_retweeter_and_tweeter.csv`
+- `M5_centralities.csv`
+- `M5_retweet.20171108.lc.csv`
+- `M5_tweet_article.csv`
+- `M6_top_sources_popularity.csv`
+- `S1_new_articles.weekly.lc.csv`
+- `S1_new_tweets.weekly.lc.csv`
+- `S1_tweeted_articles.weekly.lc.csv`
+- `S2_nusers_per_article.ff.csv`
+- `S2_nusers_per_article.lc.csv`
+- `S6_ntweets_per_user_article.lc.csv`
+- `S8_S9_binned_claims.json.txt`
+- `S8_S9_binned_factchecking.json.txt`
+- `S10_rand1000_users.lc.csv`
+- `S10_top1000_users.lc.csv`
+- `S11_first_hour_tweets_for_top1000_articles.lc.csv`
+- `S11_sampled_first_hour_users_for_top1000_articles.lc.csv`
+- `S12_sampled_mentions.20000.csv`
+- `S13_retweeter_and_tweeter.csv`
+- `sub_user_bot_score.calibrated.csv`
