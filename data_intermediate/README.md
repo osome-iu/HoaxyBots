@@ -1,4 +1,4 @@
-The raw data is hosted in external service due to limit of GitHub. Please download the following raw data into this directory for the code to run:
+The raw data is hosted in external service due to limit of GitHub. Please download the following intermediate data into this directory for the code to run:
 
 - `M1a_ntweets_per_article.ff.csv`
 - `M1a_ntweets_per_article.lc.csv`
