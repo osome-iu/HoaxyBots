@@ -1,4 +1,4 @@
-The raw data is hosted in external service due to limit of GitHub. Please download the following intermediate data into this directory for the code to run:
+The raw data is hosted in [https://www.doi.org/10.5281/zenodo.1402266](https://www.doi.org/10.5281/zenodo.1402266) due to limit of GitHub. Please download the following intermediate data into this directory for the code to run:
 
 - `M1a_ntweets_per_article.ff.csv`
 - `M1a_ntweets_per_article.lc.csv`
@@ -24,10 +24,16 @@ The raw data is hosted in external service due to limit of GitHub. Please downlo
 - `S6_ntweets_per_user_article.lc.csv`
 - `S8_S9_binned_claims.json.txt`
 - `S8_S9_binned_factchecking.json.txt`
+- `S8_S9_binned_mainstream.json.txt`
 - `S10_rand1000_users.lc.csv`
 - `S10_top1000_users.lc.csv`
 - `S11_first_hour_tweets_for_top1000_articles.lc.csv`
 - `S11_sampled_first_hour_users_for_top1000_articles.lc.csv`
 - `S12_sampled_mentions.20000.csv`
 - `S13_retweeter_and_tweeter.csv`
+- `S15a_nobreitbart_u_active_sample.csv`
+- `S15a_nobreitbart_u_random_sample.csv`
+- `S15b_nobreitbart_bots_in_first_hour.csv`
+- `S15c_nobreitbart_bots_targeting.csv`
+- `S15d_nobreitbart_bots_retweeter_tweeter.csv`
 - `sub_user_bot_score.calibrated.csv`
