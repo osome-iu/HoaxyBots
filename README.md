@@ -7,5 +7,5 @@ Data and code for the paper [*The spread of low-credibility content by social bo
 - `HoaxyBotsReproduction.ipynb`: Jupyter Notebook that contains code to generate all the figures in the main text and supplementary information.
 - `docs`: Folder to host the github page for the repository. Visit [https://iunetsci.github.io/HoaxyBots/](https://iunetsci.github.io/HoaxyBots/) for it.
 - `visualizations`: Folder to store the Gehphi files for some of the figures.
-- `data_raw`: Folder to store the raw data. The data is hosted in [https://www.doi.org/10.5281/zenodo.1402266], please download the data as instructed in the README file under `data_raw`.
-- `data_intermediate`: Folder to store the intermediate data. The data is hosted [https://www.doi.org/10.5281/zenodo.1402266], please download the data as instructed in the README file under `data_intermediate`.
+- `data_raw`: Folder to store the raw data. The data is hosted in [https://www.doi.org/10.5281/zenodo.1402266](https://www.doi.org/10.5281/zenodo.1402266), please download the data as instructed in the README file under `data_raw`.
+- `data_intermediate`: Folder to store the intermediate data. The data is hosted [https://www.doi.org/10.5281/zenodo.1402266](https://www.doi.org/10.5281/zenodo.1402266), please download the data as instructed in the README file under `data_intermediate`.
