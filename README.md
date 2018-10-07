@@ -1,4 +1,4 @@
-Data and code for the paper *The spread of low-credibility content by social bots* by Chengcheng Shao, Giovanni L. Ciampaglia, Onur Varol, Kai-Cheng Yang, Alessandro Flammini, and Filippo Menczer. To appear in *Nature Communications*. Preprint [arXiv:1707.07592](https://arxiv.org/abs/1707.07592)
+Code to reproduce the results in the paper *The spread of low-credibility content by social bots* by Chengcheng Shao, Giovanni L. Ciampaglia, Onur Varol, Kai-Cheng Yang, Alessandro Flammini, and Filippo Menczer. To appear in *Nature Communications*. Preprint [arXiv:1707.07592](https://arxiv.org/abs/1707.07592)
 
 # Repository Structure
 
